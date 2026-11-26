@@ -1,4 +1,4 @@
-# CSS Variables Fundamentals       
+# CSS Variables Fundamentals         
 
 **Original Source:** Harvard University  
 **Learning Platform:** edX  
